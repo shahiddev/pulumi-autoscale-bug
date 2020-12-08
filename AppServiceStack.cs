@@ -31,7 +31,7 @@ class AppServiceStack : Stack
 
         var sites = new List<AppService>();
 
-       var siteNames = new[]{"site1"};
+       var siteNames = new[]{"site1", "site2"};
        
 
        foreach (var siteName in siteNames)
